@@ -1,0 +1,102 @@
+.A{
+    background-color: aqua;
+    width: 700px;
+    margin-left: 250px;
+    padding-inline: 20px;
+    
+}
+.B{
+    width: 20px;
+}
+
+#C{
+    width: 400px;
+    height: 100px;
+}
+.reg{
+    border:double brown;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.RG{
+    background-color: aquamarine;
+    width:700px;
+    margin-left: 250px;
+    padding-inline: 20px;
+    padding-block-start: 20px;
+  
+}
+#dob{
+    width: 50px;
+    
+}
+.RF{
+    background-color: rgb(25, 173, 190);
+    width:750px;
+    margin-left: 250px;
+    margin-left: 250px;
+    padding-inline-start: 50px;
+    
+}
+td{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.SRF{
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+    border-bottom: solid white;
+    
+}
+.First{
+    width:700px;
+    height:30px;
+
+}
+.Second{
+    width:700px;
+    height:30px;
+}
+.Third{
+    width:700px;
+    height:30px;
+}
+.Fourth{
+    width:700px;
+    height:30px;
+}
+.Fifth{
+    width:700px;
+    height:30px;
+}
+.Sixth{
+    width:700px;
+    height:30px;
+}
+.Seven{
+    width:700px;
+    height:30px;
+}
+.Eight{
+    width:700px;
+    height:30px;
+}
+.Nine{
+    width:700px;
+    height:30px;
+}
+.Ten{
+    width:700px;
+    height:30px;
+    background-color: rgb(57, 233, 57);
+}
+.task4{
+    background-color: brown;
+    margin: 100px 200px 100px;
+    text-align: center;
+    padding: 40px;
+}
