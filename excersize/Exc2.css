@@ -1,0 +1,32 @@
+table{
+    border-collapse: collapse;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+th,td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #e60606;
+    border: 1px solid red;
+    width:500px;
+    color: aliceblue;
+}
+.one{
+    margin-top: 20px;
+    border: 2px solid red;
+    
+}
+caption{
+    text-align: center;
+    font-size: x-large;
+    color: #e60606;
+    font-weight: 900;
+    border: 2px double red;
+    margin-bottom: 10%;
+    margin-top: 5%;
+}
+div{
+    background-image:url(darkmountains.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

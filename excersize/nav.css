@@ -1,0 +1,109 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#main{
+    background-color: black;
+    height: 120vh;
+    width: 100%;
+    /* margin-top: 20px; */
+}
+h5{
+    color: aliceblue;
+}
+p{
+    color:aliceblue;
+    margin-bottom: 10px;
+}
+.one{
+    background-image: url("Backak.jpeg");
+     height: 50vh;
+     width: 25%; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left:190px;
+    top: 30px;
+       
+}
+.two{
+    margin-left: 700px;
+    padding-top: 5px;
+}
+.first{
+    font-size: xx-large;
+    font-family: 'Kanit', sans-serif;
+    color: orangered;
+    font-weight: 700;
+    margin-left:-110px ;
+
+    
+}
+button{
+    background-color: orange;
+    color: white;
+    height: 30px;
+    width: 130px;
+    border-radius: 25%;
+   
+
+}
+.three{
+    height: 300px;
+    width: 350px;
+    background-color: red;
+    text-align: center;
+   /* margin-top: 3em;
+    margin-left: -690px; */
+
+
+ }  
+ .four{  
+    height: 300px;
+    width: 350px;
+    background-color: rgb(228, 111, 15);
+   /* margin-top: 3em;
+    margin-left: -690px; */
+    text-align: center;
+}
+.five{  
+    height: 300px;
+    width: 350px;
+    background-color: rgb(235, 183, 140);
+   /* margin-top: 3em;
+    margin-left: -690px; */
+    text-align: center;
+}
+.parent{
+    display:flex; 
+    margin-left:200px;
+    margin-top:60px ;
+    
+    /* margin-right:200px; */
+    /* margin:0 auto; */
+    
+} 
+h2{
+    color: white    ;
+    font-style: italic;
+}
+.col{
+    color: white;
+    font-style: italic;
+    
+}
+.link{
+    background-color: white;
+    color: orange;
+    border: none;
+    margin-top: 60px;
+}
+.plan{
+    color: white;
+}
+.links{
+    background-color: rgb(255, 252, 252);
+    color: orange;
+    border: none;
+    margin-top: 25px;
+}

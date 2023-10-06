@@ -1,0 +1,25 @@
+div{
+    height:300px;
+    width:300px;
+    /* background-color: brown; */
+    margin:0 auto;
+    margin-top: 200px;
+    /* transform:scale(2) */
+    /* transform: rotate(-45deg); */
+    /* transition:opacity 5s; */
+    transition:transform 10s;
+    background-image: linear-gradient(red,black);
+    
+}
+.h1{
+    transform:rotateX('180deg'); 
+}
+div:hover{
+    opacity: 0.6;
+    transform:translateX(200px);
+    transform:skew(50deg,70deg) rotate(45deg) scale(2) translate(200px);
+}
+head:hover{
+    transform: rotate(180deg);
+
+}

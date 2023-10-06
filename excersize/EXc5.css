@@ -1,0 +1,60 @@
+.main{
+    height:620px;   
+    background-image:url("darkmountains.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.tit{
+    color: aliceblue;
+    padding-left: 35px;
+    padding-top: 20px;
+    font-size: x-large;
+    margin: 0%;
+    
+}
+.tit2{
+    color:aliceblue;
+    font-family: 'Diphylleia', serif;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Tilt Prism', cursive;
+    font-size: 45px;
+    font-style: italic;
+    padding-left: 50%;
+    padding-top: 3.8%;
+
+}
+.tit3{
+    color:aliceblue;
+    font-family: 'Diphylleia', serif;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Tilt Prism', cursive;
+padding-left: 30%;
+padding-top: 12%;
+font-size: 40px;
+margin: 0%;
+}
+.cll{
+    color: aliceblue;
+    padding-left: 2%;
+    font-weight:bolder;
+    font-size: x-large;
+    margin: 0%;
+    padding-top: 2%;
+}
+.but{
+    
+    padding-left: 45%;
+    border-radius: 440px;
+    
+}
+.Butt{
+    border-radius: 40px;
+    background-color: transparent;
+    color: antiquewhite;
+
+}
+.anc{
+    text-decoration: none;
+    color:aliceblue
+}

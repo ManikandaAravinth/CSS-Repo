@@ -1,0 +1,38 @@
+ul li{
+    display:inline;
+    
+}
+li a{
+    text-decoration: none;
+}
+li  a:hover{
+    background-color: aqua;
+}
+.one{
+    color: blue;
+    background-color: aqua;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    
+}
+h1{
+    display: inline;
+    background-color: aqua;
+    box-shadow: 2px 3px 6px 2px black, -2px -3px 6px 2px red;
+    padding-left: 50px;
+}
+.divone p{ 
+    background-color: aqua;
+    
+    height: 150px;
+    width:150px;
+    box-shadow: 0 -6px 4px 4px rgba(174, 8, 8, 0.2); /* Top */
+    box-shadow: 6px 0 4px 4px rgba(184, 218, 11, 0.2); /* Right */
+    box-shadow: 0 6px 4px 4px rgba(24, 240, 67, 0.2); /* Bottom */
+    box-shadow: -6px 0 4px 4px rgba(66, 15, 234, 0.2); /* Left */
+    
+}
+.divone{
+    padding-left: 0%;
+}
